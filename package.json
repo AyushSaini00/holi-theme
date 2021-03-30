@@ -1,0 +1,21 @@
+{
+    "name": "holi-theme",
+    "displayName": "Holi Theme",
+    "description": "Holi Theme!!!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Holi Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Holi Theme-color-theme.json"
+            }
+        ]
+    }
+}
