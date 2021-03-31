@@ -2,6 +2,8 @@
 	"name": "Holi Theme",
 	"type": "dark",
 	"colors": {
+		"foreground": "#85a4c0",
+
 		// ACTIVITY BAR
 		"activityBar.background": "#030314d7",
 		"activityBar.foreground": "#85a4c0",
@@ -25,7 +27,18 @@
 		"statusBarItem.activeBackground": "#072c4d",
 		"statusBarItem.hoverBackground": "#052038",
 		// STATUS BAR -- ENDS
-	
+
+		// MENU 
+		"menu.background": "#030314",
+		// MENU -- ENDS
+
+		// SCROLLBAR
+		"scrollbar.shadow": "#010b14",
+		"scrollbarSlider.activeBackground": "#084d8180",
+		"scrollbarSlider.background": "#084d8180",
+		"scrollbarSlider.hoverBackground": "#084d8180",
+		// SCROLLBAR - ENDS
+		
 		"editor.background": "#030314",
 		"editor.foreground": "#eeffff",
 		"sideBarTitle.foreground": "#bbbbbb",
