@@ -2,9 +2,11 @@
 	"name": "Holi Theme",
 	"type": "dark",
 	"colors": {
+		"activityBar.background": "#030314d7",
+		"activityBar.foreground": "#85a4c0",
+		"activityBarBadge.background": "#1c789c",
 		"editor.background": "#030314",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#1c789c",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"window.activeBorder": "#012a4a",
 		"window.inactiveBorder": "#033458"
