@@ -64,7 +64,15 @@
 		"tab.unfocusedActiveForeground": "#5f7e97",
 		"tab.unfocusedInactiveForeground": "#5f7e97",
 		// TAB -- ENDS
-		
+
+		// BREADCRUMB
+		"breadcrumb.background": "#030314",
+		"breadcrumb.foreground": "#998ddb",
+		"breadcrumb.activeSelectionForeground": "#eeefff",
+		"breadcrumb.focusForeground": "#eeefff",
+		"breadcrumbPicker.background": "#030314da",
+		// BREADCRUMB -- ENDS
+
 		"editor.background": "#030314",
 		"editor.foreground": "#eeefff",
 		"sideBarTitle.foreground": "#bbbbbb",
