@@ -2,12 +2,15 @@
 	"name": "Holi Theme",
 	"type": "dark",
 	"colors": {
+		// ACTIVITY BAR
 		"activityBar.background": "#030314d7",
 		"activityBar.foreground": "#85a4c0",
 		"activityBar.activeBackground": "#010d1a",
 		"activityBar.activeBorder": "#85a4c0",
 		"activityBar.activeFocusBorder": "#5fabee",
 		"activityBarBadge.background": "#1c789c",
+		// ACTIVITY BAR -- ENDS
+	
 		"editor.background": "#030314",
 		"editor.foreground": "#eeffff",
 		"sideBarTitle.foreground": "#bbbbbb",
