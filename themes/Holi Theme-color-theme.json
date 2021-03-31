@@ -46,6 +46,25 @@
 		"titleBar.inactiveForeground": "#eeefffb0",
 		// TITLEBAR -- ENDS
 		
+		// EDITOR GROUP
+		"editorGroupHeader.tabsBackground": "#030314",
+		"editorGroupHeader.tabsBorder": "#012a4a",
+		"editorGroup.border": "#012a4a",
+		"editorGroupHeader.border": "#012a4a",
+		// EDITOR GROUP -- ENDS
+		
+		// TAB
+		"tab.activeBackground": "#0e3250",
+		"tab.activeForeground": "#d2dee7",
+		"tab.border": "#272B3B",
+		"tab.activeBorder": "#262A39",
+		"tab.unfocusedActiveBorder": "#262A39",
+		"tab.inactiveBackground": "#01121f",
+		"tab.inactiveForeground": "#6e8ca5",
+		"tab.unfocusedActiveForeground": "#5f7e97",
+		"tab.unfocusedInactiveForeground": "#5f7e97",
+		// TAB -- ENDS
+		
 		"editor.background": "#030314",
 		"editor.foreground": "#eeefff",
 		"sideBarTitle.foreground": "#bbbbbb",
