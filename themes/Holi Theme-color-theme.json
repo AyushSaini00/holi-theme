@@ -10,6 +10,14 @@
 		"activityBar.activeFocusBorder": "#5fabee",
 		"activityBarBadge.background": "#1c789c",
 		// ACTIVITY BAR -- ENDS
+
+		// SIDE BAR
+		"sideBar.background": "#030314d7",
+		"sideBar.foreground": "#85a4c0",
+		"sideBarSectionHeader.background": "#030314e3",
+		"sideBarSectionHeader.border": "#85a5c041",
+		"sideBar.border": "#030314d7",
+		//SIDE BAR -- ENDS
 	
 		"editor.background": "#030314",
 		"editor.foreground": "#eeffff",
