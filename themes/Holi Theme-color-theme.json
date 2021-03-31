@@ -73,8 +73,14 @@
 		"breadcrumbPicker.background": "#030314da",
 		// BREADCRUMB -- ENDS
 
+		// EDITOR
 		"editor.background": "#030314",
-		"editor.foreground": "#eeefff",
+		"editor.foreground": "#eeefff", 
+		"editor.selectionBackground": "#1d3b54",
+		"editorLineNumber.foreground": "#4b6481",
+    	"editorLineNumber.activeForeground": "#C5E4FD",
+		// EDITOR -- ENDS
+
 		"sideBarTitle.foreground": "#bbbbbb",
 		"window.activeBorder": "#012a4a",
 		"window.inactiveBorder": "#033458"
