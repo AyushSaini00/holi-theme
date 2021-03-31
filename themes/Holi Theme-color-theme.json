@@ -38,9 +38,16 @@
 		"scrollbarSlider.background": "#084d8180",
 		"scrollbarSlider.hoverBackground": "#084d8180",
 		// SCROLLBAR - ENDS
+
+		// TITLEBAR
+		"titleBar.activeBackground": "#030314",
+		"titleBar.inactiveBackground": "#030314ce",
+		"titleBar.activeForeground": "#eeefff",
+		"titleBar.inactiveForeground": "#eeefffb0",
+		// TITLEBAR -- ENDS
 		
 		"editor.background": "#030314",
-		"editor.foreground": "#eeffff",
+		"editor.foreground": "#eeefff",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"window.activeBorder": "#012a4a",
 		"window.inactiveBorder": "#033458"
