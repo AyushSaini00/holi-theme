@@ -18,6 +18,13 @@
 		"sideBarSectionHeader.border": "#85a5c041",
 		"sideBar.border": "#030314d7",
 		//SIDE BAR -- ENDS
+
+		// STATUS BAR
+		"statusBar.background": "#040424bd",
+		"statusBar.foreground": "#d0e4e4",
+		"statusBarItem.activeBackground": "#072c4d",
+		"statusBarItem.hoverBackground": "#052038",
+		// STATUS BAR -- ENDS
 	
 		"editor.background": "#030314",
 		"editor.foreground": "#eeffff",
