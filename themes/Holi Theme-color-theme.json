@@ -79,6 +79,8 @@
 		"editor.selectionBackground": "#1d3b54",
 		"editorLineNumber.foreground": "#4b6481",
     	"editorLineNumber.activeForeground": "#C5E4FD",
+		"editorWidget.background": "#030314",
+		"editorWidget.border": "#6a50b1",
 		// EDITOR -- ENDS
 
 		"sideBarTitle.foreground": "#bbbbbb",
