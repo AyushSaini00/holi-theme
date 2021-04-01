@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* this is a comment in css */
+.my-class {
+    width: 100%;
+    height: auto;
+}
+#my-id {
+    display: flex;
+}
+
+a { color: red; }
+ul { margin-left: 0; }
+
+ul + p {
+    color: rgb(23, 221, 23);
+}
+
+div#container > ul {
+    border: 1px solid black;
+}
+
+ul ~ p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a[title] {
+    color: green;
+}
+
+a[href="https://ayushsaini.netlify.app"] {
+    color: #0a58e7;
+}
+
+div:hover {
+    background: #e3e3e3;
+    transform: scale(3);
+    color: #0a58e7;
+}
