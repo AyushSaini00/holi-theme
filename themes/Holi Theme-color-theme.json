@@ -3,6 +3,15 @@
 	"type": "dark",
 	"colors": {
 		"foreground": "#85a4c0",
+		"widget.shadow": "#011322",
+		"focusBorder": "#0f2a3f",
+		"selection.background": "#4772b8",
+
+		// DROP DOWN
+		"dropdown.background": "#030314",
+		"dropdown.border": "#85a4c0",
+		"dropdown.foreground": "#eeefffe7",
+		// DROP DOWN -- ENDS
 
 		// ACTIVITY BAR
 		"activityBar.background": "#030314d7",
