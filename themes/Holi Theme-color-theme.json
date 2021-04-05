@@ -11,6 +11,10 @@
 		"dropdown.background": "#030314",
 		"dropdown.border": "#85a4c0",
 		"dropdown.foreground": "#eeefffe7",
+		"dropdown.listBackground": "#030314",
+		"settings.dropdownBackground": "#030314",
+		"settings.dropdownForeground": "#eeefffe7",
+		"settings.dropdownBorder": "#85a4c0",
 		// DROP DOWN -- ENDS
 
 		// ACTIVITY BAR
