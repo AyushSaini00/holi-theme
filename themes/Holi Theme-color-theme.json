@@ -7,6 +7,13 @@
 		"focusBorder": "#0f2a3f",
 		"selection.background": "#4772b8",
 
+		// INPUT
+		"input.background": "#0b253a",
+		"input.border": "#85a4c0",
+		"input.foreground": "#eeefff",
+		"input.placeholderForeground": "#eeefff94",
+		// INPUT -- ENDS
+
 		// DROP DOWN
 		"dropdown.background": "#030314",
 		"dropdown.border": "#85a4c0",
