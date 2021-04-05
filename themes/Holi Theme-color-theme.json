@@ -37,6 +37,7 @@
 		"activityBar.activeBorder": "#85a4c0",
 		"activityBar.activeFocusBorder": "#5fabee",
 		"activityBarBadge.background": "#1c789c",
+		"activityBarBadge.foreground": "#eeefff",
 		// ACTIVITY BAR -- ENDS
 
 		// SIDE BAR
