@@ -7,6 +7,12 @@
 		"focusBorder": "#0f2a3f",
 		"selection.background": "#4772b8",
 
+		// 	BUTTON
+		"button.background": "#4c278bcc",
+		"button.foreground": "#eeefff",
+		"button.hoverBackground": "#523781",
+		// BUTTON -- ENDS
+
 		// INPUT
 		"input.background": "#031b2e",
 		"input.border": "#85a4c0",
