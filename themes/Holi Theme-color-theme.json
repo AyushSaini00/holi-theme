@@ -59,6 +59,13 @@
 		"menu.background": "#030314",
 		// MENU -- ENDS
 
+		// LIST 
+		"list.hoverBackground": "#25012c",
+		"list.hoverForeground": "#eeefff",
+		"list.activeSelectionBackground": "#2f0238",
+		"list.activeSelectionForeground": "#eeefff",
+		// LIST -- ENDS
+
 		// SCROLLBAR
 		"scrollbar.shadow": "#010b14",
 		"scrollbarSlider.activeBackground": "#084d8180",
