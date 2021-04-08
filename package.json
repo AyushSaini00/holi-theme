@@ -22,6 +22,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "assets/logo-mkp.png",
     "contributes": {
         "themes": [
             {
