@@ -2,8 +2,10 @@
 
 All notable changes to the "holi-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.2] - 2021-04-08
 
-## [Unreleased]
+- Added Icon on the Visual Studio Marketplace
+
+## [0.0.1] - 2021-04-08
 
 - Initial release
