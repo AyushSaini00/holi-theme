@@ -2,6 +2,9 @@
 
 # Holi Theme 🌈
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/ayushsaini.holi-theme.svg)](https://marketplace.visualstudio.com/items?itemName=AyushSaini.holi-theme)
+[![Downloads](https://img.shields.io/vscode-marketplace/r/ayushsaini.holi-theme.svg)](https://marketplace.visualstudio.com/items?itemName=AyushSaini.holi-theme)
+
 A Clean Visual Studio Code dark theme inspired from the Indian festival of colors, Holi
 
 ## Demo 
