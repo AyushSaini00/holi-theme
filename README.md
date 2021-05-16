@@ -9,7 +9,8 @@
 
 <p align="center">
     <a href="https://marketplace.visualstudio.com/items?itemName=AyushSaini.holi-theme"><img src="https://vsmarketplacebadge.apphb.com/version/ayushsaini.holi-theme.svg" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=AyushSaini.holi-theme"><img src="https://img.shields.io/vscode-marketplace/r/ayushsaini.holi-theme.svg" alt="Version"></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=AyushSaini.holi-theme"><img src="https://vsmarketplacebadge.apphb.com/downloads/ayushsaini.holi-theme.svg" alt="Downloads"></a>&nbsp;
+    <a href="https://marketplace.visualstudio.com/items?itemName=AyushSaini.holi-theme"><img src="https://img.shields.io/vscode-marketplace/r/ayushsaini.holi-theme.svg" alt="Rating"></a>
     
 </p>
 
